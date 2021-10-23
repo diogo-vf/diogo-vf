@@ -2,7 +2,7 @@
 Hi ᓚᘏᗢ
 My current work:  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noxcaedibux&repo=UptoboxApi_CSharp&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noxcaedibux&repo=UptoboxApi_CSharp&theme=dracula)](https://github.com/Noxcaedibux/UptoboxApi_CSharp)
 
 
 
