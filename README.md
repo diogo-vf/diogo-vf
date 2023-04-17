@@ -1,6 +1,5 @@
 # Me
 Hi ᓚᘏᗢ
-My last work (WIP):  
 
 # Github Stats :
 
